@@ -29,13 +29,14 @@ It contains the complete logic of SAMA, including:
 * Taking student information as input
 * Taking subject names and marks
 * Storing the entered information
-* Calculating total marks
-* Calculating average marks
+* Calculating the total marks
+* Calculating the average marks
 * Calculating percentage
 * Finding the highest marks
 * Finding the lowest marks
 * Identifying the subjects with the highest and lowest marks
-* Displaying the final academic report
+* Displaying the final academic report in form of percentage,average marks,highest and lowest scoring subject
+*The Grades are not provided in order to let the student introspect on themselves and encourage themselves to be better for  *low marks
 
 ### 2. README.md
 
