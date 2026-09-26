@@ -36,7 +36,7 @@ It contains the complete logic of SAMA, including:
 * Finding the lowest marks
 * Identifying the subjects with the highest and lowest marks
 * Displaying the final academic report in form of percentage,average marks,highest and lowest scoring subject
-*The Grades are not provided in order to let the student introspect on themselves and encourage themselves to be better 
+* The grades haven't been provided to encourage the student to assess the resultvia their own introspection
 
 ### 2. README.md
 
